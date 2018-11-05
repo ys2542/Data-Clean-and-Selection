@@ -14,7 +14,9 @@ Use Python dictionary to store the information and its sorted() function to get 
 
 # Run Instructions
 
-For example, python ./src/h1b_counting.py ./input/h1b_input.csv ./output/top_10_occupations.txt ./output/top_10_states.txt 2 5 24 50
+For example, 
+
+python ./src/h1b_counting.py ./input/h1b_input.csv ./output/top_10_occupations.txt ./output/top_10_states.txt 2 5 24 50
 
 [0] ./src/h1b_counting.py (source file path)
 
